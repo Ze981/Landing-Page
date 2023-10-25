@@ -1,0 +1,70 @@
+.flowers{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.flowers div{
+    flex: 1;
+    
+}
+
+.flowers p{
+    text-align: center;
+}
+img{
+    width:300px;
+    height: 200px;
+    border-radius: 20px;
+}
+.header1{
+    background-color: #1F2937;
+    color: white;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    height: 200px;
+    text-align: center;
+    text-emphasis-color: #1F2937;
+}
+
+#quote{
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+    padding-top: 70px;
+    
+}
+.header2 p{
+    font-size: 48px ;
+    font-weight: bolder;
+    color:#F9FAF8 ;
+}
+
+.header2 pre{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h3{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    padding: 30px;
+}
+
+.action{
+    background-color: #3882F6;
+    padding: 30px;
+
+    margin: 100px;
+    color: white;
+}
+
+button{
+    background-color: #3882F6;
+    color: white;
+    border-color: white;
+}
