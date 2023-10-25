@@ -68,3 +68,22 @@ button{
     color: white;
     border-color: white;
 }
+
+.header2{
+    display: inline-block;
+    margin-left: 60px;
+    position: relative;
+}
+
+.img1{
+    display: inline-block;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 170px;
+    
+}
+
+pre{
+    margin-left: -70px;
+}
+
